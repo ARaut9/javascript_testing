@@ -1,0 +1,23 @@
+{
+  "name": "javascript_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARaut9/javascript_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARaut9/javascript_testing/issues"
+  },
+  "homepage": "https://github.com/ARaut9/javascript_testing#readme"
+}
